@@ -1,5 +1,8 @@
 # Privacy and Compliance Checklist Documentation
 
+![GitHub License](https://img.shields.io/github/license/TheOSuite/oXSS)
+![Python Version](https://img.shields.io/badge/python-3.13-blue)
+
 This application provides a comprehensive overview of key privacy and security frameworks, including their implementation stages and considerations. 
 It serves as a structured guide to ensure compliance and effective management across various standards.
 
